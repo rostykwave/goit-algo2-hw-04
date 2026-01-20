@@ -1,0 +1,2 @@
+# No third-party runtime dependencies — this project uses the Python standard library.
+# Recommended Python version: 3.8+
